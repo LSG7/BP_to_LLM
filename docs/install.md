@@ -11,7 +11,7 @@
 
 ## Install MCP Server for Claude Desktop 
 
-This is not required. Install only if you use claude desktop.
+This is not required. Install only if you use claude desktop.  
 Requirements: python3
 
 1. Go into the plugins folder. (In the shell window of each operating system (cmd for Windows))
