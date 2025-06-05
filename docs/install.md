@@ -2,7 +2,7 @@
 ## Install Plugin
 
 1. Download release file. https://github.com/user-attachments/files/20606076/BP_MD_LLM_v1.0.zip  
-   Unzip that file to the directory of your project. {Your project root}/Plugins/BP_MD_LLM
+   Unzip that file to the directory of your project. {Your project root}/Plugins/BP_MD_LLM  
    In Unreal, all plugins should be structured like this. It's nothing unusual.  
    Detailed for beginners.
    
