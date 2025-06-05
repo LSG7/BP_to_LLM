@@ -1,13 +1,13 @@
 # Why is this necessary?
 
-Problem: llm doesn't understand blueprint files.  
-Solution: This project enables LLMs to understand and manipulate blueprints.
+- Problem: LLM doesn't understand blueprint files.  
+- Solution: This project enables LLMs to understand and manipulate blueprints.
 
 ## Install
-[Install doc](docs/install.md)
+- [Install doc](docs/install.md)
 
 ## How to Use
-[how to use doc](docs/howtouse.md)
+- [how to use doc](docs/howtouse.md)
 
 
 
@@ -21,4 +21,4 @@ Solution: This project enables LLMs to understand and manipulate blueprints.
 
 
 ## Root of Project
-[🗡](https://github.com/LSG7/NorthStar/blob/main/README.md)
+- [🗡](https://github.com/LSG7/NorthStar/blob/main/README.md)
