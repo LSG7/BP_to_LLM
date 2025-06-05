@@ -7,6 +7,4 @@ Solution: This project enables LLMs to understand and manipulate blueprints.
 [Install doc](install.md)
 
 ## How to Use
-
-- WebBrowser LLMs (ChatGPT, Claude.ai) : click
-- Claude Desktop : click
+[how to use doc](docs/howtouse.md)
