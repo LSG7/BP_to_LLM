@@ -28,8 +28,8 @@ Requirements: python3
    ```json
     {
       "mcpServers": {
-        "bml_v2_server": {
-          "command": "python",
+        "BP_MD_LLM": {
+          "command": "python3",
           "args": [
             "Your Project Path\\Plugins\\BP_MD_LLM\\Resources\\MCPBridge\\mcp-standard.py"
             ],
