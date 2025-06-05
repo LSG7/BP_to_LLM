@@ -45,7 +45,7 @@ Requirements: python3
    python3 .\test-python-bridge.py
    ```
       
-## Install MCP Server (not ours, recommeded option)
+## Install MCP Server for filesystem (not ours, recommeded option)
 
 filesystem function  
 follow the instruction: https://modelcontextprotocol.io/quickstart/user#windows
