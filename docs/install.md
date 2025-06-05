@@ -1,6 +1,3 @@
-## Requirements
-
-python3
 
 ## Install Plugin
 
@@ -13,6 +10,8 @@ python3
    then open the Plugins window and activate the plugin called BP_MD_LLM.
 
 ## Install MCP Server for Claude Desktop (This is not required. Install only if you use claude desktop.)
+
+Requirements: python3, node.js
 
 1. Go into the plugins folder. (In the shell window of each operating system (cmd for Windows))
    Go into {Your Project}/Plugins/BP_MD_LLM/Resources/MCPBridge
