@@ -11,13 +11,13 @@
 
 ## Install MCP Server for Claude Desktop 
 
-This is not required. Install only if you use claude desktop.  
+This is not required. Install only if you use claude desktop. ( I recommend )   
 Requirements: python3
 
 1. Go into the plugins folder. (In the shell window of each operating system (cmd for Windows))
    Go into {Your Project}/Plugins/BP_MD_LLM/Resources/MCPBridge
    
-2. Run python install 
+2. Run python install  
    pip install -r ./requirements.txt
    
 3. add following json data into
@@ -25,8 +25,6 @@ Requirements: python3
    macOS: ~/Library/Application Support/Claude/claude_desktop_config.json
    Windows: %APPDATA%\Claude\claude_desktop_config.json
    ```
-
-   Change Your Project Path. See here https://modelcontextprotocol.io/quickstart/user#windows
    ```json
     {
       "mcpServers": {
@@ -40,6 +38,7 @@ Requirements: python3
       }
     }
     ```
+   Change 'Your Project Path'. See here https://modelcontextprotocol.io/quickstart/user#windows
 
 4. Run test.
    ```
