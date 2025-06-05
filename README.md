@@ -1,7 +1,10 @@
-# BP_to_LLM
+# Why is this necessary?
 
-Problem: llm doesn't understand blueprint files.
+Problem: llm doesn't understand blueprint files.  
 Solution: This project enables LLMs to understand and manipulate blueprints.
+
+## Install
+[Install doc](install.md)
 
 ## How to Use
 
