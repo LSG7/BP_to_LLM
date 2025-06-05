@@ -17,6 +17,8 @@
 
   * 📄 **JSON**
   * 🧠 **Mermaid diagram code**
+ 
+![](images/web_convert_result.jpg)
 * 💾 Saves the `.json` file in the same location as the Blueprint (same name).
 * ❎ Includes a "Close Result Panel" button.
 
