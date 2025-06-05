@@ -9,9 +9,10 @@
 2. Open your project in the editor.
    then open the Plugins window and activate the plugin called BP_MD_LLM.
 
-## Install MCP Server for Claude Desktop (This is not required. Install only if you use claude desktop.)
+## Install MCP Server for Claude Desktop 
 
-Requirements: python3, node.js
+This is not required. Install only if you use claude desktop.
+Requirements: python3
 
 1. Go into the plugins folder. (In the shell window of each operating system (cmd for Windows))
    Go into {Your Project}/Plugins/BP_MD_LLM/Resources/MCPBridge
@@ -32,7 +33,7 @@ Requirements: python3, node.js
         "bml_v2_server": {
           "command": "python",
           "args": [
-            "Your Project Path\\Plugins\\BP_MD_LLM\\Resources\\MCPBridge\\mcp-bridge-simple.py"
+            "Your Project Path\\Plugins\\BP_MD_LLM\\Resources\\MCPBridge\\mcp-standard.py"
             ],
           "env": {}
         }
@@ -45,3 +46,7 @@ Requirements: python3, node.js
    python3 .\test-python-bridge.py
    ```
       
+## Install MCP Server (not ours, recommeded option)
+
+filesystem function  
+follow the instruction: https://modelcontextprotocol.io/quickstart/user#windows
