@@ -1,6 +1,26 @@
 
+
+
 # 📘 Brief Feature Overview
 
+
+When you launch the editor, you'll see a log message(Output Log) like this:
+
+```
+LogBPMDServer: ServerLog: [Info] HTTP Server: 0.0.0.0:8710, WebSocket Server: 0.0.0.0:8710
+```
+
+Open your browser and navigate to:
+**[http://localhost:8710/web](http://localhost:8710/web)**
+
+> 🔸 Note: The port number may vary each time.
+> Please check the actual port in the editor log before connecting.
+> By default, it is usually **8708**.
+> In this example, ports **8708** and **8709** were already in use, so the server started on **8710**.
+
+
+---
+## Web Interface  
 ![](images/web_main.jpg)
 
 ### 1️⃣ **🔄 Load Blueprint**
