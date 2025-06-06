@@ -42,5 +42,8 @@
    * The Blueprint will be saved using the name and path specified in the JSON.
    * If an asset with the same name already exists, the existing asset will be renamed to `original_name_Old` before saving.
 
-6. "Please tell me how to use BP_MD_LLM"
+6. "Please open the blueprint in the editor."  
+7. "Please compile the blueprint."  
+   - "Please fix the compilation error."  
+8. "Please tell me how to use BP_MD_LLM"
    
