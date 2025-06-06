@@ -21,7 +21,7 @@ Open your browser and navigate to:
 
 ---
 ## Web Interface  
-![](images/web_main.jpg)
+![](../images/web_main.jpg)
 
 ### 1️⃣ **🔄 Load Blueprint**
 
@@ -38,7 +38,7 @@ Open your browser and navigate to:
   * 📄 **JSON**
   * 🧠 **Mermaid diagram code**
  
-![](images/web_convert_result.jpg)
+![](../images/web_convert_result.jpg)
 * a:  Saves the `.json` file in the same location as the Blueprint (same name).
 * b:  close the result panel.
 
