@@ -44,7 +44,10 @@ Requirements: python3
    ```
    python3 .\test-python-bridge.py
    ```
-      
+5. Check Claude DeskTop
+   ![](images/mcp_server_0.jpg)
+   ![](images/mcp_server_1.jpg)
+   
 ## Install MCP Server for filesystem (not ours, recommeded option)
 
 filesystem function  
