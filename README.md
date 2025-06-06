@@ -1,3 +1,5 @@
+![](docs/images/Door_0.png)
+
 # Why is this necessary?
 
 - Problem: LLM doesn't understand blueprint files.  
