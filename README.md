@@ -11,7 +11,7 @@
 - [Install doc](docs/install.md)
 
 ## How to Use
-- [how to use doc](docs/howtouse.md)
+- [how to use doc](docs/howtouse/howtouse.md)
 
 
 
