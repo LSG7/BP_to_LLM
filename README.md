@@ -5,7 +5,7 @@
 - Problem: LLM doesn't understand blueprint files.  
 - Solution: This project enables LLMs to understand and manipulate blueprints.
 - how?: Convert blueprints to json so that llm can understand them.  
-        Conversely, LLM can generate blueprints.
+        also, LLM can generate blueprints.
 
 ## Install
 - [Install doc](docs/install.md)
