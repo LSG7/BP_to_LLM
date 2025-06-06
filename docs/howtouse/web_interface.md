@@ -11,7 +11,7 @@ LogBPMDServer: ServerLog: [Info] HTTP Server: 0.0.0.0:8710, WebSocket Server: 0.
 ```
 
 Open your browser and navigate to:
-**[http://localhost:8710/web](http://localhost:8708/web)**
+**[http://localhost:8708/web](http://localhost:8708/web)**
 
 > 🔸 Note: The port number may vary each time.
 > Please check the actual port in the editor log before connecting.
