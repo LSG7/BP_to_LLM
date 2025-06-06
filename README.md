@@ -13,7 +13,11 @@
 ## How to Use
 - [how to use doc](docs/howtouse/howtouse.md)
 
-
+## Example View
+- on Claude Desktop
+- parsing 'BP_Echo_3rdPersonPawn(Unreal ContentExample Character)' to Json and Rendering Mermaid
+  
+![](docs/images/claude_desktop_echo3rd.jpg)
 
 
 
