@@ -1,0 +1,75 @@
+# BP_MD_LLM Plugin License
+
+**Copyright (c) 2025 SGLee. All rights reserved.**
+
+## Grant of License
+
+SGLee grants you a non-exclusive, worldwide, royalty-free license to use the BP_MD_LLM plugin software (the "Software") in binary form.
+
+## ✅ Permitted Uses
+
+**You MAY:**
+- **Development Tool Use**: Use the Software as a development tool for creating games, applications, and content
+- **Commercial Products**: Sell games, applications, and content created using the Software as a development tool
+- **Internal Use**: Use the Software within your organization, team, or company
+- **Educational Use**: Use the Software for learning, teaching, or research purposes
+- **Modification**: Modify configuration files, settings, and plugin parameters
+- **Development Workflows**: Integrate the Software into development processes and pipelines
+- **Non-Commercial Sharing**: Share the Software with other Unreal Engine developers for non-commercial purposes
+
+## ❌ Restrictions
+
+**You MAY NOT:**
+- **Runtime Distribution**: Distribute the Software binaries as part of your final products, games, or applications
+- **End-User Access**: Include the Software in products where end-users can access or use the Software directly
+- **Commercial Sales**: Sell the Software as a standalone commercial product or service
+- **Repackaging**: Repackage or rebrand the Software as your own plugin
+- **Competitive Products**: Use the Software to create competing Blueprint conversion tools
+- **Reverse Engineering**: Reverse engineer, decompile, or disassemble the Software
+- **Component Extraction**: Extract individual components for separate distribution
+
+## 📝 Attribution Requirement (Optional)
+
+Since BP_MD_LLM is used only during development and not included in final products, attribution is optional but appreciated. If you choose to credit the development tools used:
+
+```
+Developed with BP_MD_LLM Plugin by SGLee
+https://github.com/yourusername/BML_V2
+```
+
+## 🎯 Use Case Examples
+
+**✅ ALLOWED:**
+- Using BP_MD_LLM during development, then selling the finished game commercially
+- Using BP_MD_LLM to create Blueprints, then removing BP_MD_LLM before final build and selling the game
+- Using BP_MD_LLM as a development tool to improve productivity, then shipping games without BP_MD_LLM
+- Creating mobile apps using BP_MD_LLM as development aid, then selling apps (without BP_MD_LLM included)
+- Using BP_MD_LLM for educational projects and research
+- Using BP_MD_LLM to improve development workflows at your company
+
+**❌ NOT ALLOWED:**
+- Shipping a game that still contains BP_MD_LLM plugin files
+- Including BP_MD_LLM binaries in the final packaged game or application
+- Distributing apps where end-users can access BP_MD_LLM functionality
+- Selling BP_MD_LLM plugin commercially as a standalone product
+- Creating "Enhanced BP_MD_LLM" and selling it separately
+- Including BP_MD_LLM in runtime builds that end-users receive
+
+## ⚖️ Legal Terms
+
+**Warranty Disclaimer**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+**Limitation of Liability**: IN NO EVENT SHALL SGLEE BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+**Termination**: This license terminates automatically if you violate any terms. Upon termination, you must stop using the Software and delete all copies.
+
+## 📞 Contact
+
+For licensing questions or permissions:
+- GitHub: https://github.com/yourusername/BML_V2  
+- Issues: https://github.com/yourusername/BML_V2/issues
+
+---
+
+**License Version**: 1.0  
+**Effective Date**: 2025-01-01
