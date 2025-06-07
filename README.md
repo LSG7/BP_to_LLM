@@ -13,6 +13,18 @@
 ## How to Use
 - [how to use doc](docs/howtouse/howtouse.md)
 
+## MCP Server Tool List  
+1. **blueprint_to_json**: Convert blueprint → JSON
+2. **json_to_blueprint**: Convert JSON → Blueprint
+3. **save_blueprint_json**: Save JSON file validation
+4. **open_blueprint_in_editor**: Open blueprint in editor
+5. **get_user_manual**: View user manual
+6. **validate_blueprint_json**: Validate JSON schema
+7. **get_blueprint_list**: View blueprint list
+8. **check_json_exists**: Check JSON file existence
+9. **compile_blueprint**: Compile blueprint
+10. **create_default_blueprint**: Create default blueprint
+
 ## Example View
 - on Claude Desktop
 - parsing 'BP_Echo_3rdPersonPawn(Unreal ContentExample Character)' to Json and Rendering Mermaid
