@@ -23,7 +23,7 @@
 7. **get_blueprint_list**: View blueprint list
 8. **check_json_exists**: Check JSON file existence
 9. **compile_blueprint**: Compile blueprint
-10. **create_default_blueprint**: Create default blueprint
+10. **create_default_blueprint**: Create default blueprint (All blueprint classes that can be created in the editor)
 
 ## Example View
 - on Claude Desktop
