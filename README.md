@@ -1,7 +1,7 @@
 ![](docs/images/Door_0.png)
 
 
-# Announcement  
+# Notice  
 
 While I was making the Blueprint tool, I thought that it might be possible to develop games using natural language.  
 So I stopped developing the Blueprint tool and started developing game development tools using natural language.  
