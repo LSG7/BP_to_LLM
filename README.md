@@ -1,5 +1,17 @@
 ![](docs/images/Door_0.png)
 
+
+# Announcement  
+
+While I was making the Blueprint tool, I thought that it might be possible to develop games using natural language.  
+So I stopped developing the Blueprint tool and started developing game development tools using natural language.  
+This repository will no longer be updated.  
+
+
+
+
+
+
 # Why is this necessary?
 
 - Problem: LLM doesn't understand blueprint files.  
