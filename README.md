@@ -7,7 +7,8 @@ While I was making the Blueprint tool, I thought that it might be possible to de
 So I stopped developing the Blueprint tool and started developing game development tools using natural language.  
 This repository will no longer be updated.  
 
-
+Come here. I made a AI tool.
+https://github.com/LSG7/Door_to_isekai
 
 
 
